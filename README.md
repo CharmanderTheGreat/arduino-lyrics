@@ -51,6 +51,36 @@ I2C only needs 4 connections:
 6. Select **Board: Arduino Uno** and the correct **COM Port**.
 7. Upload the sketch.
 
+## Uploading via Mobile (No PC Needed)
+
+You can also upload sketches straight from an Android phone using **OTG** — no computer required.
+
+**Requirements:**
+- Android phone with **USB-host (OTG) support**
+- **USB-C to USB-A cable** (or OTG adapter, depending on your Arduino's cable)
+- [**ArduinoDroid**](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2) app (Play Store)
+
+> Note: ArduinoDroid's core features (compile + upload) are free and unlimited — there's no hard cap on how many times you can upload. The catch is it's ad-supported: expect a ~30-second video ad on most compile/upload actions unless you get the premium unlock (also removes ads + adds extras like autocomplete).
+
+### How to Operate
+
+1. Install ArduinoDroid from the Play Store.
+2. Connect your phone to the Arduino via the USB-C to USB cable.
+3. Open the app — it should prompt for USB permission; allow it.
+4. Load the `.ino` sketch from the song repo (import/open from storage).
+5. Add the required library (see below) before compiling.
+6. Set the board to **Arduino Uno** in ArduinoDroid's board settings.
+7. Tap **Compile**, then **Upload**.
+
+### Adding the LiquidCrystal_I2C Library (Mobile)
+
+ArduinoDroid doesn't have the full Library Manager search like the desktop IDE, so the library has to be added manually as a `.zip`:
+
+1. Download the library as a ZIP from its GitHub repo: **[github.com/johnrickman/LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C)** → **Code** → **Download ZIP**.
+2. In ArduinoDroid, tap the **3-dot menu** (upper right).
+3. Go to **Libraries**.
+4. Select **Add downloaded .zip library**, then pick the ZIP you downloaded.
+
 ## Usage
 
 This is a **visual-only** display. There's no actual audio playback, just the lyrics scrolling in sync with timestamps. To start or replay the sequence from the beginning, reset the board using any of the following:
@@ -76,6 +106,9 @@ This project is intentionally simple. The following are **not** included:
 | Arduino IDE | [arduino.cc/en/software](https://www.arduino.cc/en/software) | Arduino |
 | CH340 Driver | [wch-ic.com/downloads/CH341SER_EXE.html](https://www.wch-ic.com/downloads/CH341SER_EXE.html) | Nanjing Qinheng Microelectronics (WCH) — official manufacturer of the CH340/CH341 chip |
 | LiquidCrystal_I2C Library | [github.com/johnrickman/LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C) | Author: Frank de Brabander · Maintainer: Marco Schwartz |
+| ArduinoDroid | [https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2) | Publisher: PE Smirnov Anton Sergeevich |
+
+
 
 > Install LiquidCrystal_I2C directly through Arduino IDE's Library Manager instead of downloading it manually. Search "LiquidCrystal I2C" and install the one by Frank de Brabander.
 
