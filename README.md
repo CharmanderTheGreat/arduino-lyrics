@@ -81,8 +81,8 @@ There's no separate "play" command in software. Resetting the board is what trig
 
 | File | Description |
 |------|--------------|
-| `[sketch-filename].ino` | Arduino sketch with the word-timestamp array and LCD display logic |
-| `[song-title].lrc` | Lyrics with timestamps in standard LRC format |
+| `damned-lyrics.ino` | Arduino sketch with the word-timestamp array and LCD display logic |
+| `damned-lyrics.lrc` | Lyrics with timestamps in standard LRC format |
 
 ## Credits
 
