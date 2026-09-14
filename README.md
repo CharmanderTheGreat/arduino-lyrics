@@ -1,6 +1,6 @@
 # Damned by Miguel Lyrics using Arduino Uno R3 with I2C Screen Display
 
-A timestamp-synced lyric display for the song "**[Damned]**", built on an Arduino Uno R3 and a 16x2 I2C LCD screen. Words appear on the screen in sync with playback time, scrolling across two rows as the song plays.
+A timestamp-synced lyric display for the song "**Damned**", built on an Arduino Uno R3 and a 16x2 I2C LCD screen. Words appear on the screen in sync with playback time, scrolling across two rows as the song plays.
 
 > Part of the [arduino-karaoke-lcd](https://github.com/CharmanderTheGreat/arduino-karaoke-lcd) collection — see that repo for general hardware info, wiring, and setup instructions shared across all song repos.
 
