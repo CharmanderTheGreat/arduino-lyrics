@@ -10,7 +10,7 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 
 | Song | Repo Link |
 |------|-----------|
-| *(song title)* | *(link to repo)* |
+| *(Damned by Miguel)* | *[https://github.com/CharmanderTheGreat/damned-lyrics.git](https://github.com/CharmanderTheGreat/damned-lyrics.git)* |
 | *(song title)* | *(link to repo)* |
 | *(song title)* | *(link to repo)* |
 
