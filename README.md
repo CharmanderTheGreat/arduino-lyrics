@@ -11,7 +11,7 @@ A timestamp-synced lyric display for the song "**Damned**", built on an Arduino 
  
 ## Lyrics File (.lrc)
 
-The `.lrc` file below contains the full lyrics with line-level timestamps, in the standard LRC format. It's included so the timing data can be reused or ported to other languages/platforms if you don't want to use the Arduino sketch as-is.
+The `damned-lyrics.lrc` file below contains the full lyrics with line-level timestamps, in the standard LRC format. It's included so the timing data can be reused or ported to other languages/platforms if you don't want to use the Arduino sketch as-is.
 
 ```
 [00:00.30]Two
@@ -60,9 +60,9 @@ Each word in the lyrics is stored with its own timestamp (in milliseconds) and a
 
 ## Setup
 
-For hardware, wiring, and general setup instructions, see the [arduino-karaoke-lcd](https://github.com/CharmanderTheGreat/arduino-karaoke-lcd) hub repo. Once your board and LCD are wired and ready:
+For hardware, wiring, and general setup instructions, see the [arduino-karaoke-lcd](https://github.com/CharmanderTheGreat/arduino-lyrics) hub repo. Once your board and LCD are wired and ready:
 
-1. Open `[sketch-filename].ino` from this repo in Arduino IDE.
+1. Open `damned-lyrics.ino` from this repo in Arduino IDE.
 2. Install the `LiquidCrystal_I2C` library via `Sketch > Include Library > Manage Libraries` → search "LiquidCrystal I2C" → install.
 3. Select **Board: Arduino Uno** and the correct **COM Port**.
 4. Upload the sketch.
