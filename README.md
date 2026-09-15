@@ -1,4 +1,4 @@
-# arduino-karaoke-lcd
+# Lyrics using Arduino
 
 A collection of timestamp-synced karaoke-style lyric displays, built on an Arduino Uno R3 and a 16x2 I2C LCD screen. Each song has its own dedicated repo with its own code and lyric timing. This repo serves as the general hub: hardware info, wiring, setup, and the full list of song repos.
 
