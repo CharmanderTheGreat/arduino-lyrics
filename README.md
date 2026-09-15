@@ -60,7 +60,7 @@ Each word in the lyrics is stored with its own timestamp (in milliseconds) and a
 
 ## Setup
 
-For hardware, wiring, and general setup instructions, see the [arduino-karaoke-lcd](https://github.com/CharmanderTheGreat/arduino-lyrics) hub repo. Once your board and LCD are wired and ready:
+For hardware, wiring, and general setup instructions, see the [arduino-lyrics](https://github.com/CharmanderTheGreat/arduino-lyrics) hub repo. Once your board and LCD are wired and ready:
 
 1. Open `damned-lyrics.ino` from this repo in Arduino IDE.
 2. Install the `LiquidCrystal_I2C` library via `Sketch > Include Library > Manage Libraries` → search "LiquidCrystal I2C" → install.
@@ -86,4 +86,4 @@ There's no separate "play" command in software. Resetting the board is what trig
 
 ## Credits
 
-See the [arduino-karaoke-lcd](https://github.com/CharmanderTheGreat/arduino-lyrics) hub repo for library and tool credits.
+See the [arduino-lyrics](https://github.com/CharmanderTheGreat/arduino-lyrics) hub repo for library and tool credits.
