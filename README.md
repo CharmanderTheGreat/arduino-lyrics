@@ -13,6 +13,7 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 | *(About You by The 1975)* | *[(https://github.com/CharmanderTheGreat/aboutyou-lyrics.git)](https://github.com/CharmanderTheGreat/aboutyou-lyrics.git))* |
 | *(Damned by Miguel)* | *[https://github.com/CharmanderTheGreat/damned-lyrics.git](https://github.com/CharmanderTheGreat/damned-lyrics.git)* |
 | *(Totoong Tayo by Jin DC)* | *[https://github.com/CharmanderTheGreat/totoongtayo-lyrics.git](https://github.com/CharmanderTheGreat/totoongtayo-lyrics.git)* |
+| *(Waltz Of Four Left Feet by Shirebound and Busking)* | *[https://github.com/CharmanderTheGreat/waltzoffourfeet-lyrics.git](https://github.com/CharmanderTheGreat/waltzoffourfeet-lyrics.git)* |
 
 
 ## Hardware Used
