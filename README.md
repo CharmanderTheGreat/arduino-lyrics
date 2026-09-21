@@ -10,7 +10,7 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 
 | Song | Repo Link |
 |------|-----------|
-| *(About You by The 1975)* | *[(https://github.com/CharmanderTheGreat/aboutyou-lyrics.git)](https://github.com/CharmanderTheGreat/aboutyou-lyrics.git))* |
+| *(About You by The 1975)* | *[(https://github.com/CharmanderTheGreat/aboutyou-lyrics.git)](https://github.com/CharmanderTheGreat/aboutyou-lyrics.git)S* |
 | *(Damned by Miguel)* | *[https://github.com/CharmanderTheGreat/damned-lyrics.git](https://github.com/CharmanderTheGreat/damned-lyrics.git)* |
 | *(Sila by SUD)* | *[https://github.com/CharmanderTheGreat/sila-lyrics](https://github.com/CharmanderTheGreat/sila-lyrics)* |
 | *(Totoong Tayo by Jin DC)* | *[https://github.com/CharmanderTheGreat/totoongtayo-lyrics.git](https://github.com/CharmanderTheGreat/totoongtayo-lyrics.git)* |
