@@ -1,20 +1,20 @@
 # Lyrics using Arduino
 
-A collection of timestamp-synced karaoke-style lyric displays, built on an Arduino Uno R3 and a 16x2 I2C LCD screen. Each song has its own dedicated repo with its own code and lyric timing. This repo serves as the general hub: hardware info, wiring, setup, and the full list of song repos.
+A collection of timestamp-synced karaoke-style lyric displays, built on an Arduino Uno R3 and a 16x2 I2C LCD screen. Each song has its own folder with its own code and lyric timing. This repo serves as the general hub: hardware info, wiring, setup, and the full list of songs.
 
 ## How It Works
 
 Each word in a song's lyrics is stored with its own timestamp (in milliseconds) and a flag marking whether it starts a new line. As time progresses, the matching word is pushed onto the LCD, filling the first row, then the second, creating a karaoke-style scrolling lyric effect.
 
-## Song Repos
+## Songs
 
-| Song | Repo Link |
-|------|-----------|
-| *(About You by The 1975)* | *[(https://github.com/CharmanderTheGreat/aboutyou-lyrics.git)](https://github.com/CharmanderTheGreat/aboutyou-lyrics.git)S* |
-| *(Damned by Miguel)* | *[https://github.com/CharmanderTheGreat/damned-lyrics.git](https://github.com/CharmanderTheGreat/damned-lyrics.git)* |
-| *(Sila by SUD)* | *[https://github.com/CharmanderTheGreat/sila-lyrics](https://github.com/CharmanderTheGreat/sila-lyrics)* |
-| *(Totoong Tayo by Jin DC)* | *[https://github.com/CharmanderTheGreat/totoongtayo-lyrics.git](https://github.com/CharmanderTheGreat/totoongtayo-lyrics.git)* |
-| *(Waltz Of Four Left Feet by Shirebound and Busking)* | *[https://github.com/CharmanderTheGreat/waltzoffourfeet-lyrics.git](https://github.com/CharmanderTheGreat/waltzoffourfeet-lyrics.git)* |
+| Song | Folder |
+|------|--------|
+| *About You* by The 1975 | [aboutyou](./aboutyou/) |
+| *Damned* by Miguel | [damned](./damned/) |
+| *Sila* by SUD | [sila-lyrics repo](https://github.com/CharmanderTheGreat/sila-lyrics) |
+| *Totoong Tayo* by Jin DC | [totoongtayo](./totoongtayo/) |
+| *Waltz Of Four Left Feet* by Shirebound and Busking | [waltzoffourfeet](./waltzoffourfeet/) |
 
 ## Hardware Used
 
@@ -48,7 +48,7 @@ I2C only needs 4 connections:
 1. Install the CH340 driver. This is only needed if you bought the economy/clone Uno R3, since it's cheaper but requires this extra step.
 2. Solder the I2C backpack onto the LCD screen, if not pre-assembled. (Tip: buying a pre-soldered LCD module saves you this step.)
 3. Wire the LCD to the Arduino following the table above.
-4. Open the `.ino` sketch from the specific song repo you want in Arduino IDE.
+4. Open the `.ino` sketch from the song folder you want in Arduino IDE.
 5. Install the `LiquidCrystal_I2C` library via `Sketch > Include Library > Manage Libraries` → search "LiquidCrystal I2C" → install.
 6. Select **Board: Arduino Uno** and the correct **COM Port**.
 7. Upload the sketch.
@@ -69,7 +69,7 @@ You can also upload sketches straight from an Android phone using **OTG** — no
 1. Install ArduinoDroid from the Play Store.
 2. Connect your phone to the Arduino via the USB-C to USB cable.
 3. Open the app — it should prompt for USB permission; allow it.
-4. Load the `.ino` sketch from the song repo (import/open from storage).
+4. Load the `.ino` sketch from the song folder (import/open from storage).
 5. Add the required library (see below) before compiling.
 6. Set the board to **Arduino Uno** in ArduinoDroid's board settings.
 7. Tap **Compile**, then **Upload**.
@@ -109,8 +109,6 @@ This project is intentionally simple. The following are **not** included:
 | CH340 Driver | [wch-ic.com/downloads/CH341SER_EXE.html](https://www.wch-ic.com/downloads/CH341SER_EXE.html) | Nanjing Qinheng Microelectronics (WCH) — official manufacturer of the CH340/CH341 chip |
 | LiquidCrystal_I2C Library | [github.com/johnrickman/LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C) | Author: Frank de Brabander · Maintainer: Marco Schwartz |
 | ArduinoDroid | [https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2) | Publisher: PE Smirnov Anton Sergeevich |
-
-
 
 > Install LiquidCrystal_I2C directly through Arduino IDE's Library Manager instead of downloading it manually. Search "LiquidCrystal I2C" and install the one by Frank de Brabander.
 
