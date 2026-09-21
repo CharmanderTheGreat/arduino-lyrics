@@ -14,6 +14,7 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 | *(Damned by Miguel)* | *[https://github.com/CharmanderTheGreat/damned-lyrics.git](https://github.com/CharmanderTheGreat/damned-lyrics.git)* |
 | *(Totoong Tayo by Jin DC)* | *[https://github.com/CharmanderTheGreat/totoongtayo-lyrics.git](https://github.com/CharmanderTheGreat/totoongtayo-lyrics.git)* |
 | *(Waltz Of Four Left Feet by Shirebound and Busking)* | *[https://github.com/CharmanderTheGreat/waltzoffourfeet-lyrics.git](https://github.com/CharmanderTheGreat/waltzoffourfeet-lyrics.git)* |
+| *(Sila by SUD)* | *[https://github.com/CharmanderTheGreat/sila-lyrics](https://github.com/CharmanderTheGreat/sila-lyrics)* |
 
 
 ## Hardware Used
