@@ -12,6 +12,7 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 |------|--------|
 | *About You* by The 1975 | [aboutyou](./aboutyou/) |
 | *All I Need To Hear* by The 1975 | [allineedtohear](./allineedtohear/) |
+| *Aphrodite* by The Ridleys | [ridleys](./aphrodite/) |
 | *Damned* by Miguel | [damned](./damned/) |
 | *Mahal na Mahal* by Sam Concepcion | [mahalnamahal](./mahalnamahal/) |
 | *Isip* by Healy After Dark | [isip](./isip/) |
