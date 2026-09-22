@@ -12,6 +12,7 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 |------|--------|
 | *About You* by The 1975 | [aboutyou](./aboutyou/) |
 | *Damned* by Miguel | [damned](./damned/) |
+| *Isip* by Healy After Dark | [isip](./isip/) |
 | *Sila* by SUD | [sila](./sila/) |
 | *Totoong Tayo* by Jin DC | [totoongtayo](./totoongtayo/) |
 | *Waltz Of Four Left Feet* by Shirebound and Busking | [waltzoffourfeet](./waltzoffourfeet/) |
