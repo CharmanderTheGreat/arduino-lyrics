@@ -15,10 +15,14 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 | *Aphrodite* by The Ridleys | [aphrodite](./aphrodite/) |
 | *Be With You* by The Ridles | [bewithyou](./bewithyou-lyrics/)
 | *Damned* by Miguel | [damned](./damned/) |
+| *Ikot* by Over October | [ikot](./ikot/) |
+| *Isip* by Healy After Dark | [isip](./isip/) |
+| *Libu-Libong Buwan* by Kyle Raphael | [libulibongbuwan](./libulibongbuwan/) | 
 | *Mahal Magmahal* by Esremborak | [mahalmagmahal](./mahalmagmahal/) |  
 | *Mahal na Mahal* by Sam Concepcion | [mahalnamahal](./mahalnamahal/) |
 | *Isip* by Healy After Dark | [isip](./isip/) |
 | *Sila* by SUD | [sila](./sila/) |
+| *Sun Bleached Flies* by Ethel Cain | [sunbleachedflies](./sunbleachedflies/) |
 | *Totoong Tayo* by Jin DC | [totoongtayo](./totoongtayo/) |
 | *Waltz Of Four Left Feet* by Shirebound and Busking | [waltzoffourfeet](./waltzoffourfeet/) |
 
