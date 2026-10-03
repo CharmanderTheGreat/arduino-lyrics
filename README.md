@@ -20,6 +20,8 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 | *Libu-Libong Buwan* by Kyle Raphael | [libulibongbuwan](./libulibongbuwan/) | 
 | *Mahal Magmahal* by Esremborak | [mahalmagmahal](./mahalmagmahal/) |  
 | *Mahal na Mahal* by Sam Concepcion | [mahalnamahal](./mahalnamahal/) |
+| *Multo* by Cup of Joe | [multo](./multo/) |
+| *Scientist* by Coldplay | [scientist](./scientist/) |
 | *Sila* by SUD | [sila](./sila/) |
 | *Sun Bleached Flies* by Ethel Cain | [sunbleachedflies](./sunbleachedflies/) |
 | *Totoong Tayo* by Jin DC | [totoongtayo](./totoongtayo/) |
