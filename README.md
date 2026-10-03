@@ -13,14 +13,13 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 | *About You* by The 1975 | [aboutyou](./aboutyou/) |
 | *All I Need To Hear* by The 1975 | [allineedtohear](./allineedtohear/) |
 | *Aphrodite* by The Ridleys | [aphrodite](./aphrodite/) |
-| *Be With You* by The Ridles | [bewithyou](./bewithyou-lyrics/)
+| *Be With You* by The Ridles | [bewithyou](./bewithyou-lyrics/) |
 | *Damned* by Miguel | [damned](./damned/) |
 | *Ikot* by Over October | [ikot](./ikot/) |
 | *Isip* by Healy After Dark | [isip](./isip/) |
 | *Libu-Libong Buwan* by Kyle Raphael | [libulibongbuwan](./libulibongbuwan/) | 
 | *Mahal Magmahal* by Esremborak | [mahalmagmahal](./mahalmagmahal/) |  
 | *Mahal na Mahal* by Sam Concepcion | [mahalnamahal](./mahalnamahal/) |
-| *Isip* by Healy After Dark | [isip](./isip/) |
 | *Sila* by SUD | [sila](./sila/) |
 | *Sun Bleached Flies* by Ethel Cain | [sunbleachedflies](./sunbleachedflies/) |
 | *Totoong Tayo* by Jin DC | [totoongtayo](./totoongtayo/) |
@@ -30,15 +29,18 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 
 <img width="400" height="400" alt="Arduino Uno R3" src="https://github.com/user-attachments/assets/7e494cd4-429d-4461-91e6-ccbd466cf55f" />
 
-- **Arduino Uno R3** — you may choose either the official board or the economy/clone variant (the clone requires the **CH340 driver** to be installed on your PC before it gets detected)
+- **Arduino Uno R3** — you may choose either the official board or the economy/clone variant (the clone requires the **CH340 driver** to be installed on your PC before it gets detected).  
+  Item link: [Shopee](https://ph.shp.ee/qaqLndPZ)
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/eceb8b83-965c-4ff5-8600-a5cba77cee0b" />
 
-- **16x2 LCD screen with I2C backpack** — make sure to get a screen that comes with (or includes) an I2C module, since plain LCDs are often sold without it. It's recommended to buy one that's already pre-soldered to skip the soldering step.
+- **16x2 LCD screen with I2C backpack** — make sure to get a screen that comes with (or includes) an I2C module, since plain LCDs are often sold without it. It's recommended to buy one that's already pre-soldered to skip the soldering step.  
+  Item link: [Shopee](https://ph.shp.ee/DLRLiyag)
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/094048b2-fa7a-40db-835c-37d760e47b1c" />
 
-- **4x female-to-male jumper wires** — (female end connects to the LCD's I2C pins, male end connects to the Arduino's pin headers)
+- **4x female-to-male jumper wires** — (female end connects to the LCD's I2C pins, male end connects to the Arduino's pin headers).  
+  Item link: [Shopee](https://ph.shp.ee/V5p5LPgn)
 
 ## Wiring
 
