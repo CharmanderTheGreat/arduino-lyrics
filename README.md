@@ -21,6 +21,7 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 | *Mahal Magmahal* by Esremborak | [mahalmagmahal](./mahalmagmahal/) |  
 | *Mahal na Mahal* by Sam Concepcion | [mahalnamahal](./mahalnamahal/) |
 | *Multo* by Cup of Joe | [multo](./multo/) |
+| *Pasensya ka na* by Silent Sanctuary | [pasensyakana](./pasensyakana/) |
 | *Scientist* by Coldplay | [scientist](./scientist/) |
 | *Sila* by SUD | [sila](./sila/) |
 | *Sun Bleached Flies* by Ethel Cain | [sunbleachedflies](./sunbleachedflies/) |
