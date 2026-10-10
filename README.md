@@ -17,6 +17,7 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 | *Damned* by Miguel | [damned](./damned/) |
 | *Ikot* by Over October | [ikot](./ikot/) |
 | *Isip* by Healy After Dark | [isip](./isip/) |
+| *Kalapastangan* by fitterkarma | [kalapastangan](./kalapastangan/) |
 | *Libu-Libong Buwan* by Kyle Raphael | [libulibongbuwan](./libulibongbuwan/) | 
 | *Mahal Magmahal* by Esremborak | [mahalmagmahal](./mahalmagmahal/) |  
 | *Mahal na Mahal* by Sam Concepcion | [mahalnamahal](./mahalnamahal/) |
