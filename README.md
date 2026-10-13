@@ -11,6 +11,7 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 | Song | Folder |
 |------|--------|
 | *About You* by The 1975 | [aboutyou](./aboutyou/) |
+| *Alipin* by Shamrock (Khel Pangalinan Cover) | [alipin](./alipin/) |
 | *All I Need To Hear* by The 1975 | [allineedtohear](./allineedtohear/) |
 | *Aphrodite* by The Ridleys | [aphrodite](./aphrodite/) |
 | *Be With You* by The Ridles | [bewithyou](./bewithyou-lyrics/) |
