@@ -28,6 +28,7 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 | *Sila* by SUD | [sila](./sila/) |
 | *Sun Bleached Flies* by Ethel Cain | [sunbleachedflies](./sunbleachedflies/) |
 | *The Cure* by Olivia Rodrigo | [thecure](./thecure/) |
+| *The Cut That Always Bleed* by Conan Gray |[thecutthatalwaysbleed](./thecutthatalwaysbleed/) |
 | *Thinking Of You* by Katy Perry | [thinkingofyou](./thinkingofyou/) |
 | *Totoong Tayo* by Jin DC | [totoongtayo](./totoongtayo/) |
 | *Waltz Of Four Left Feet* by Shirebound and Busking | [waltzoffourfeet](./waltzoffourfeet/) |
