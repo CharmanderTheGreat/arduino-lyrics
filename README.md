@@ -33,6 +33,8 @@ Each word in a song's lyrics is stored with its own timestamp (in milliseconds) 
 | *Totoong Tayo* by Jin DC | [totoongtayo](./totoongtayo/) |
 | *Waltz Of Four Left Feet* by Shirebound and Busking | [waltzoffourfeet](./waltzoffourfeet/) |
 
+
+
 ## Hardware Used
 
 <img width="400" height="400" alt="Arduino Uno R3" src="https://github.com/user-attachments/assets/7e494cd4-429d-4461-91e6-ccbd466cf55f" />
