@@ -9,7 +9,7 @@ struct WordTiming {
 };
 
 const WordTiming lyrics[] = {
-  {     20, "terranova," },
+  {     20, "Terranova," },
   {   2080, "i'll" },
   {   2800, "find" },
   {   3300, "you" },
